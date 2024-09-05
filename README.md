@@ -1,6 +1,6 @@
 # Frontend Mentor - Multi-step form
 
-![Design preview for the Multi-step form coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Multi-step form coding challenge](https://github.com/ubaidaa-oss/Multi-Step-Form-by-Oss/blob/main/assets/design/desktop-preview.jpg?raw=true)
 
 ## Welcome! 👋
 
